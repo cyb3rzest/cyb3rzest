@@ -50,7 +50,7 @@
 - 🔭 I’m currently working on
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyb3rzest&repo=vasuki&show_owner=true)](https://github.com/cyb3rzest/vasuki)
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyb3rzest&repo=blckhrtz&show_owner=true)](https://github.com/cyb3rzest/blckhrtz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyb3rzest&repo=Burp-Suite-Pro&show_owner=true)](https://github.com/cyb3rzest/Burp-Suite-Pro)
 <div align="center">
 - ⚡ Fun fact: 
 Show ❤️ :)(:<br>
