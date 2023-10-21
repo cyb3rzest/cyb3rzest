@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/vpt619/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/cyb3rzest/cyb3rzest/blob/main/img-src/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/cyberzeast/" title="Twitter Profile"><img height="22" width="22" src="https://github.com/cyb3rzest/cyb3rzest/blob/main/img-src/twitter.svg"> Twitter</a></code>
+  <code><a href="https://twitter.com/cyberzeast/" title="Twitter Profile"><img height="22" width="22" src="https://github.com/cyb3rzest/cyb3rzest/blob/main/img-src/twitter.png"> Twitter</a></code>
   <code><a href="https://www.youtube.com/@ViTiSecurity"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/cyb3rzest/cyb3rzest/blob/main/img-src/youtube.svg"> YouTube</a></code>
 </h5>
 <br>
